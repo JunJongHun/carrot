@@ -47,6 +47,7 @@ body {
   margin-top: 10px;
   text-align: center;
   background-color: white;
+  visibility: hidden;
 }
 
 .game__count {
@@ -59,6 +60,7 @@ body {
   border-radius: 50%;
   border: 3px solid black;
   color: white;
+  visibility: hidden;
 }
 
 .game__field {
